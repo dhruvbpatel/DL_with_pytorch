@@ -367,3 +367,5 @@ Helper.view_classify(img.view(1, 28, 28), ps)
 
 
 # Now our network is brilliant. It can accurately predict the digits in our images. Next up you'll write the code for training a neural network on a more complex dataset.
+
+#%%
